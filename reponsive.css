@@ -1,0 +1,33 @@
+
+@media(min-width:1200px){
+   .staff .slider .container{
+       max-width:1400px;
+   }
+   .footer .container{
+    max-width: 1400px;
+}
+}
+@media(min-width:1400px){
+   .work .container{
+       max-width: 1640px;
+   }
+   .best .container{
+       max-width:1640px;
+   }
+   .header .container{
+    max-width: 1640px;
+}
+}
+
+@media(min-width:1640px){
+   .free .container{
+       max-width:1880px;
+   }
+   .bottom .container{
+       max-width:1880px;
+   }
+   .inst .container{
+       max-width: 1880px;
+   }
+}
+
